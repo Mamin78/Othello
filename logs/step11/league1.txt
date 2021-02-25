@@ -1,0 +1,21 @@
+leagues games: 
+black is 0   |   white is 1   /   Black points => 42 | White points => 22 || winner : True
+black is 0   |   white is 2   /   Black points => 18 | White points => 46 || winner : False
+black is 0   |   white is 3   /   Black points => 37 | White points => 27 || winner : True
+black is 0   |   white is 4   /   Black points => 45 | White points => 19 || winner : True
+black is 1   |   white is 0   /   Black points => 28 | White points => 36 || winner : False
+black is 1   |   white is 2   /   Black points => 10 | White points => 54 || winner : False
+black is 1   |   white is 3   /   Black points => 45 | White points => 19 || winner : True
+black is 1   |   white is 4   /   Black points => 39 | White points => 25 || winner : True
+black is 2   |   white is 0   /   Black points => 36 | White points => 28 || winner : True
+black is 2   |   white is 1   /   Black points => 21 | White points => 43 || winner : False
+black is 2   |   white is 3   /   Black points => 35 | White points => 29 || winner : True
+black is 2   |   white is 4   /   Black points => 15 | White points => 49 || winner : False
+black is 3   |   white is 0   /   Black points => 20 | White points => 44 || winner : False
+black is 3   |   white is 1   /   Black points => 18 | White points => 46 || winner : False
+black is 3   |   white is 2   /   Black points => 18 | White points => 46 || winner : False
+black is 3   |   white is 4   /   Black points => 42 | White points => 22 || winner : True
+black is 4   |   white is 0   /   Black points => 37 | White points => 27 || winner : True
+black is 4   |   white is 1   /   Black points => 26 | White points => 38 || winner : False
+black is 4   |   white is 2   /   Black points => 45 | White points => 19 || winner : True
+black is 4   |   white is 3   /   Black points => 33 | White points => 31 || winner : True
